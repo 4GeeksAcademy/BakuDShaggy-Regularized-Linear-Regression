@@ -1,0 +1,97 @@
+  1. TOT_POP
+  2. 0-9
+  3. 0-9 y/o % of total pop
+  4. 19-Oct
+  5. 10-19 y/o % of total pop
+  6. 20-29
+  7. 20-29 y/o % of total pop
+  8. 30-39
+  9. 30-39 y/o % of total pop
+ 10. 40-49
+ 11. 40-49 y/o % of total pop
+ 12. 50-59
+ 13. 50-59 y/o % of total pop
+ 14. 60-69
+ 15. 60-69 y/o % of total pop
+ 16. 70-79
+ 17. 70-79 y/o % of total pop
+ 18. 80+
+ 19. 80+ y/o % of total pop
+ 20. White-alone pop
+ 21. % White-alone
+ 22. Black-alone pop
+ 23. % Black-alone
+ 24. Native American/American Indian-alone pop
+ 25. % NA/AI-alone
+ 26. Asian-alone pop
+ 27. % Asian-alone
+ 28. Hawaiian/Pacific Islander-alone pop
+ 29. % Hawaiian/PI-alone
+ 30. Two or more races pop
+ 31. % Two or more races
+ 32. POP_ESTIMATE_2018
+ 33. N_POP_CHG_2018
+ 34. GQ_ESTIMATES_2018
+ 35. R_birth_2018
+ 36. R_death_2018
+ 37. R_NATURAL_INC_2018
+ 38. R_INTERNATIONAL_MIG_2018
+ 39. R_DOMESTIC_MIG_2018
+ 40. R_NET_MIG_2018
+ 41. Less than a high school diploma 2014-18
+ 42. High school diploma only 2014-18
+ 43. Some college or associate's degree 2014-18
+ 44. Bachelor's degree or higher 2014-18
+ 45. Percent of adults with less than a high school diploma 2014-18
+ 46. Percent of adults with a high school diploma only 2014-18
+ 47. Percent of adults completing some college or associate's degree 2014-18
+ 48. Percent of adults with a bachelor's degree or higher 2014-18
+ 49. POVALL_2018
+ 50. PCTPOVALL_2018
+ 51. PCTPOV017_2018
+ 52. PCTPOV517_2018
+ 53. MEDHHINC_2018
+ 54. CI90LBINC_2018
+ 55. CI90UBINC_2018
+ 56. Civilian_labor_force_2018
+ 57. Employed_2018
+ 58. Unemployed_2018
+ 59. Unemployment_rate_2018
+ 60. Median_Household_Income_2018
+ 61. Med_HH_Income_Percent_of_State_Total_2018
+ 62. Active Physicians per 100000 Population 2018 (AAMC)
+ 63. Total Active Patient Care Physicians per 100000 Population 2018 (AAMC)
+ 64. Active Primary Care Physicians per 100000 Population 2018 (AAMC)
+ 65. Active Patient Care Primary Care Physicians per 100000 Population 2018 (AAMC)
+ 66. Active General Surgeons per 100000 Population 2018 (AAMC)
+ 67. Active Patient Care General Surgeons per 100000 Population 2018 (AAMC)
+ 68. Total nurse practitioners (2019)
+ 69. Total physician assistants (2019)
+ 70. Total Hospitals (2019)
+ 71. Internal Medicine Primary Care (2019)
+ 72. Family Medicine/General Practice Primary Care (2019)
+ 73. Total Specialist Physicians (2019)
+ 74. ICU Beds_x
+ 75. Total Population
+ 76. Population Aged 60+
+ 77. Percent of Population Aged 60+
+ 78. county_pop2018_18 and older
+ 79. anycondition_Lower 95% CI
+ 80. anycondition_Upper 95% CI
+ 81. anycondition_number
+ 82. Obesity_Lower 95% CI
+ 83. Obesity_Upper 95% CI
+ 84. Obesity_number
+ 85. Heart disease_Lower 95% CI
+ 86. Heart disease_Upper 95% CI
+ 87. Heart disease_number
+ 88. COPD_Lower 95% CI
+ 89. COPD_Upper 95% CI
+ 90. COPD_number
+ 91. diabetes_Lower 95% CI
+ 92. diabetes_Upper 95% CI
+ 93. diabetes_number
+ 94. CKD_Lower 95% CI
+ 95. CKD_Upper 95% CI
+ 96. CKD_number
+ 97. Urban_rural_code
